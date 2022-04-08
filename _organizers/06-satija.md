@@ -8,7 +8,6 @@ webpage:
 # Primary affiliation
 affil: McGill University and Mila
 # Link to the primary affiliation
-affil_link: https://mila.quebec/en/
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
 img: satija.jpeg

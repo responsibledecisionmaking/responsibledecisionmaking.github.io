@@ -2,113 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9f72a4d-2e38-4a08-85af-e2a4a5aaa500" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/03/7528c94c6a2ba03aa8ee9c31cea09370d8633a1a71be70effb674a3000788e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/06/9ece7fc0349432d14f2b2016353f8d98ecd3336d0d0615f828b5fb2faa2703" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/15/d6cb26d495f9ffef68376525e9cd9b60da982884978cd643c0f54114874f64" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/1d/a509bd1ca423e5e6c468f5a4c7674c7200a92698dad36abb07ca471d46fcd0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/23/9ef535da6aa9e1e25c0f57e190acd919d1d7128d683c81a6c9f53bb1d8f83b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/36/598ab6de680c6c67885b9c646d6c2bb1ca6500016cb1df1078f3ab2891dc64" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/39/2707d67164d550bad1f0d1cbbc6126ffbd33444acb0f9e379e46b822bb6008" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/53/be77b16bdca305f64812a17424e527d20d6390e01cd6201065530bf0578d5b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/58/f2f71c0f20f023d1b7f0b435437cd710adf260be569818b0a4b72a2e79d6f9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/60/33fc754cb23e7509922eb9b3cdc1e03ad803a54f68dd920a1fa31b07436e17" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/64/020da82ee3248597fb6a96cfe17ffb21770d601a3e8b57151d34e5c5b25e6b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/83/f7e7437ca6d67d3fd1fec791808d826ae232510d8d1c48502402fc9033151c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/8b/39b04d325fbd1e48d809533eda00bde13f77bab7fa0b0430992808fe8119c5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/8d/bf22149e6124fdd10df3c105391226b626230291b35f691b3355c578e083b9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/98/f2967017876805a1907e9542525a83b7c20e28cd2b4a6fa33e45be27e7f08e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/9a/6768f3638da70617f2f3bd8d54455b8e1d2456172c9cc313e20bdac21646e9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/9b/cec0b4ef002e67dad48091bed74cf0de559846c2c03f527fb88ce522f89142" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/a5/9dc8cc3882ca1c169cabe654fafaedaa5deb1a9d1fba6c80b765cbf110f2e2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/a8/1cc53cc698ada932d8811c713ebf59438f43a485b2c147915bbf8e0dc045c7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/a8/7f4648205a01a0a15e2f6630581ae58edbad204d78c25a5517872f814bac3d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/b0/3a724e7943d02d93e18a71155d609df3649f30378a156b69dad1da12744452" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/b9/b071b395cffaac99328bf73b03bbd76310202827f7b9670ae94f4306df827f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ba/2aa74a808ac21a200e7402f1b42b9eee1b11f850c3fdb078bd528fb45030c2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/c0/335997bf006fc2cf93313144c0b7d7190db62b4fb78208ea75505c9c618459" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/de/c2aac9c2180fec6a331b115c6b99d27c970a5b7a87ca80adc334b4c6a56150" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/de/c7b7e42db2cc3617d87a5bb977a54d6710585d08f7cda3381b7864a8e044fc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e1/00a58f37d3ea438073da529012faffcdab2ef3e1013da71be6c174630f0a75" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e4/fd43baf465d89c04b4c04f78b1cb1836819b1a70f3d2452f5e526b69654fa7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/schedule.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_organizers/01-krishna.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_organizers/02-mandana.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_organizers/03-aditya.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_organizers/04-breandan.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_organizers/05-amy.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_organizers/06-anna.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_organizers/07-bhairav.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_organizers/08-khimya.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_organizers/09-sara.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_organizers/10-tegan.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_organizers/11-devi.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_organizers/12-polo.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_organizers/13-derek.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_organizers/13-yoshua.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_papers/paper_01.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_papers/paper_02.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_papers/paper_03.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_papers/paper_04.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_papers/paper_05.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_papers/paper_06.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_papers/paper_07.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_papers/paper_08.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_papers/paper_09.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_papers/paper_10.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_papers/paper_11.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_papers/paper_12.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_papers/paper_13.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_papers/paper_14.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_papers/paper_15.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/workshop.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/workshop.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_organizers/06-satija.md" beforeDir="false" afterPath="$PROJECT_DIR$/_organizers/06-satija.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/getinvolved/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/getinvolved/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/organizers/01-krishna.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/organizers/02-mandana.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/organizers/03-aditya.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/organizers/04-breandan.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/organizers/05-amy.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/organizers/06-anna.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/organizers/07-bhairav.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/organizers/08-khimya.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/organizers/09-sara.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/organizers/10-tegan.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/organizers/11-devi.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/organizers/12-polo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/organizers/13-derek.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/organizers/13-yoshua.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/organizers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/organizers/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/papers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/papers/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/papers/paper_01.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/papers/paper_02.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/papers/paper_03.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/papers/paper_04.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/papers/paper_05.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/papers/paper_06.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/papers/paper_07.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/papers/paper_08.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/papers/paper_09.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/papers/paper_10.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/papers/paper_11.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/papers/paper_12.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/papers/paper_13.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/papers/paper_14.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/papers/paper_15.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/schedule/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/schedule/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/speakers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/speakers/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/submit/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/submit/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/workshop.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/workshop.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/organizers.md" beforeDir="false" afterPath="$PROJECT_DIR$/organizers.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule.md" beforeDir="false" afterPath="$PROJECT_DIR$/schedule.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/submit.md" beforeDir="false" afterPath="$PROJECT_DIR$/submit.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -136,18 +32,6 @@
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="252">
                 <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_organizers/02-joachims.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="234">
-                <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
               </first_editor>
               <second_editor />
             </state>
@@ -190,12 +74,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_organizers/06-satija.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="324">
-                <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+              <first_editor relative-caret-position="162">
+                <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="1" selection-start-column="1" selection-end-column="1" />
               </first_editor>
               <second_editor />
             </state>
@@ -303,6 +199,7 @@
         <option value="$PROJECT_DIR$/submit.md" />
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/_organizers/06-satija.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -401,12 +298,12 @@
       <option name="presentableId" value="Default" />
       <updated>1649353926039</updated>
       <workItem from="1649353931279" duration="9358000" />
-      <workItem from="1649446675804" duration="2047000" />
+      <workItem from="1649446675804" duration="2245000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11405000" />
+    <option name="totallyTimeSpent" value="11603000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="96" y="95" width="2194" height="1225" extended-state="0" />
@@ -439,7 +336,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/img/speakers/davidha.png" />
     <entry file="file://$PROJECT_DIR$/_speakers/finale_doshi-velez.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -822,8 +718,18 @@
     <entry file="file://$PROJECT_DIR$/_organizers/06-satija.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="324">
-            <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+          <first_editor relative-caret-position="162">
+            <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="1" selection-start-column="1" selection-end-column="1" />
           </first_editor>
           <second_editor />
         </state>
