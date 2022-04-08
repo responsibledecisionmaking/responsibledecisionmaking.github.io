@@ -1,0 +1,28 @@
+I"�<p><img src="assets/img/banner.jpg" alt="" /></p>
+
+<p>Algorithmic decision-making systems are increasingly used in sensitive applications such as advertising, resume reviewing, employment, credit lending, policing, criminal justice, and beyond. The long-term promise of these approaches is to automate, augment and/or eventually improve on the human decisions which can be biased or unfair, by leveraging the potential of machine learning to make decisions supported by historical data. Unfortunately, there is a growing body of evidence showing that the current machine learning technology is vulnerable to privacy or security attacks, lacks interpretability, or reproduces (and even exacerbates) historical biases or discriminatory behaviors against certain social groups.</p>
+
+<p>Most of the literature on building socially responsible algorithmic decision-making systems focus on a static scenario where algorithmic decisions do not change the data distribution. However, real-world applications involve nonstationarities and feedback loops that must be taken into account to measure and mitigate fairness in the long-term. These feedback loops involve the learning process which may be biased because of insufficient exploration, or changes in the environment’s dynamics due to strategic responses of the various stakeholders. From a machine learning perspective, these sequential processes are primarily studied through counterfactual analysis and reinforcement learning.</p>
+
+<p>The purpose of this workshop is to bring together researchers from both industry and academia working on the full spectrum of responsible decision-making in dynamic environments, from theory to practice. In particular, we encourage submissions on the following topics:</p>
+<ul>
+  <li>Fairness,</li>
+  <li>Privacy and security,</li>
+  <li>Robustness,</li>
+  <li>Conservative and safe algorithms,</li>
+  <li>Explainability and interpretability.</li>
+</ul>
+
+<p>Please see the call for papers on instructions to how to submit.</p>
+
+<p>Important dates:</p>
+
+<p>The theme is quite easy to use if you’re familiar with Jekyll. The following collections are implemented:</p>
+<ol>
+  <li><strong>Speakers</strong>: Curate a <a href="speakers">speaker list like this one</a> from a set of markdown files, one per speaker. Crops and displays images if available. Adds a short bio. See files in the <code class="language-plaintext highlighter-rouge">_speakers</code> directory for examples.</li>
+  <li><strong>Organizers</strong>: Curate an organizer list from a set of markdown files, one per organizer. See files in the <code class="language-plaintext highlighter-rouge">_organizers</code> directory for examples.</li>
+  <li><strong>Schedule</strong>: Curate a <a href="schedule">schedule like this</a> from a set of markdown files, one per event (talk, panel, break, etc.). See files in the <code class="language-plaintext highlighter-rouge">_schedule</code> directory for examples. Schedule items are sorted by a <code class="language-plaintext highlighter-rouge">sequence_id</code> attribute.</li>
+  <li><strong>Papers</strong>: Curate a <a href="papers">list of papers like this</a> from a bunch of markdown files, one per paper. See files in the <code class="language-plaintext highlighter-rouge">_papers</code> directory for examples. Papers are sorted by a <code class="language-plaintext highlighter-rouge">sequence_id</code> attribute if specifed (else they are listed alphabetically).</li>
+</ol>
+
+:ET
