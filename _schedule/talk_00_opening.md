@@ -5,9 +5,11 @@ sequence_id: 0
 # Speaker name
 speaker: Organizers
 
+webpage: [/organizers/]
+
 # Title of the event
-title: Opening remarks
+title: Introduction and opening remarks
 
 # Time of the event
-time: 0815
+time: 0900
 ---

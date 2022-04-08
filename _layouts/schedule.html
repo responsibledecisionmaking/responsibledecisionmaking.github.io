@@ -16,21 +16,21 @@ layout: default
 	  	<tr>
 	  		<td>
 	  			<p align="center">
-	  				<b>Time (EDT)</b>
+	  				<b>Local Time (EDT)</b>
 	  			</p>
 	  		</td>
-			<td>
-				<p align="center">
-					<b>Time (PDT)</b>
-				</p>
-			</td>
-			<td>
-				<p align="center">
-					<b>Time (CEST)</b>
-				</p>
-			</td>
-			<td>
-			</td>
+<!--			<td>-->
+<!--				<p align="center">-->
+<!--					<b>Time (PDT)</b>-->
+<!--				</p>-->
+<!--			</td>-->
+<!--			<td>-->
+<!--				<p align="center">-->
+<!--					<b>Time (CEST)</b>-->
+<!--				</p>-->
+<!--			</td>-->
+<!--			<td>-->
+<!--			</td>-->
 	  		<td>
 	  			<p align="center">
 	  				<b>Event</b>
@@ -44,26 +44,26 @@ layout: default
 		                {{ scheduleitem.time }}
 		            </p>
 		        </td>
-				<td>
-		            <p align="center">
-		                {{ scheduleitem.time | minus: 300 | prepend: '0000' | slice: -4, 4 }}
-		            </p>
-		        </td>
-				<td>
-		            <p align="center">
-		                {{ scheduleitem.time | plus: 600 }}
-		            </p>
-		        </td>
-		        <td>
-		            <div class="col-xs-12">
-		                <p align="center">
-		                	{% if scheduleitem.img %}
-		                    	<img class="people-pic" src="{{ scheduleitem.img | prepend: '/assets/img/speakers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
-		                    {% else %}
-		                    	<img class="people-pic" src="{{ 'avatar.jpg' | prepend: '/assets/img/speakers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
-		                    {% endif %}
-		                </p>
-		            </div>
+<!--				<td>-->
+<!--		            <p align="center">-->
+<!--		                {{ scheduleitem.time | minus: 300 | prepend: '0000' | slice: -4, 4 }}-->
+<!--		            </p>-->
+<!--		        </td>-->
+<!--				<td>-->
+<!--		            <p align="center">-->
+<!--		                {{ scheduleitem.time | plus: 600 }}-->
+<!--		            </p>-->
+<!--		        </td>-->
+<!--		        <td>-->
+<!--		            <div class="col-xs-12">-->
+<!--		                <p align="center">-->
+<!--		                	{% if scheduleitem.img %}-->
+<!--		                    	<img class="people-pic" src="{{ scheduleitem.img | prepend: '/assets/img/speakers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">-->
+<!--		                    {% else %}-->
+<!--		                    	<img class="people-pic" src="{{ 'avatar.jpg' | prepend: '/assets/img/speakers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">-->
+<!--		                    {% endif %}-->
+<!--		                </p>-->
+<!--		            </div>-->
 		        </td>
 		        <td align="center">
 		        	<div class="people-name text-center">
