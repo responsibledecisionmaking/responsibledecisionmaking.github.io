@@ -21,7 +21,7 @@
 title: Responsible Decision Making in Dynamic Environments - ICML 2022 Workshop
 email: responsibledecisionmaking@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  To discuss current challenges and possible solutions of responsible sequential decision making.
+  Workshop to discuss the current challenges and possible solutions of responsible sequential decision making.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: responsibledec1

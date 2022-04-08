@@ -10,6 +10,5 @@ permalink: /organizers/
 
 We thank all reviewers for providing thoughtful and constructive reviews!
 
-| Dmytro Mishkin | Falaah Arif Khan | Bindita Chaudhuri |
-| Vinay Uday Prabhu | Gargi Balasubramaniam | Jessica Zosa Forde |
+| A | B | C|
 -->

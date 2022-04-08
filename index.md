@@ -35,7 +35,7 @@ The purpose of this workshop is to bring together researchers from both industry
 
 ### News
 
-* Call for papers is out! Last date to submit is **June 3, 2022**. Please check [instructions](submit) on how to submit.
+* Call for papers is out! Last date to submit is **May 31, 2022**. Please check [instructions](submit) on how to submit.
 
 <!--
 * [Schedule](schedule) updated. 
@@ -57,11 +57,11 @@ The organizers may be reached at `responsibledecisionmaking <AT> gmail.com`
 1. [Socially Responsible Machine Learning (SRML)](https://iclrsrml.github.io/) - ICLR, 2022
 2. [Socially Responsible Machine Learning](https://icmlsrml2021.github.io/) - ICML, 2021
 3. [Learning in Presence of Strategic Behavior](https://sites.google.com/view/strategicml/) - NeurIPS, 2021
-4. [Workshop on Responsible AI ](https://sites.google.com/view/rai-workshop/home) - ICLR 2021
+4. [Workshop on Responsible AI ](https://sites.google.com/view/rai-workshop/home) - ICLR, 2021
 5. [Workshop on Consequential Decision Making in Dynamic Environments](https://dynamicdecisions.github.io/) - NeurIPS, 2020
-6. [Law & Machine Learning (LML)](https://sites.google.com/view/icml-law-and-ml-2020/home) - ICML 2020
-7. [Workshop on Human Interpretability in Machine Learning (WHI)](https://sites.google.com/view/whi2020) - ICML 2020 
-8. [Reinforcement Learning for Real Life Workshop](https://sites.google.com/view/RL4RealLife) - ICML 2021
-9. [Safe and Robust Control of Uncertain Systems](https://sites.google.com/view/safe-robust-control/home) - NeurIPS 2021 
+6. [Law & Machine Learning (LML)](https://sites.google.com/view/icml-law-and-ml-2020/home) - ICML, 2020
+7. [Workshop on Human Interpretability in Machine Learning (WHI)](https://sites.google.com/view/whi2020) - ICML, 2020 
+8. [Reinforcement Learning for Real Life Workshop](https://sites.google.com/view/RL4RealLife) - ICML, 2021
+9. [Safe and Robust Control of Uncertain Systems](https://sites.google.com/view/safe-robust-control/home) - NeurIPS, 2021 
 10. [Political Economy of Reinforcement Learning (PERLS) Workshop
-](https://perls-workshop.github.io/) - NeurIPS 2021
+](https://perls-workshop.github.io/) - NeurIPS, 2021
