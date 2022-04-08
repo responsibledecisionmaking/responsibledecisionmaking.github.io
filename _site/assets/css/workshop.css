@@ -107,3 +107,14 @@ span.award-other img {
   background: #55ACEE;
   color: white;
 }
+
+.custom-title-page {
+  @include relative-font-size(2);
+  /*  font-size: 45px;*/
+    text-align: center;
+}
+
+.custom-subtitle-page {
+  @include relative-font-size(1.3);
+    text-align: center;
+}
