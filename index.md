@@ -7,35 +7,50 @@ title: Home
 layout: home
 ---
 
+> "All communication must lead to change." -- Aristotle
 
-![](assets/img/banner.jpg)
+<figure>
+	<div style="text-align:center">
+		<img src="assets/img/banner.png" alt="A logo image for the rethinking ML papers workshop, designed by Falaah Arif Khan" />
+		<figcaption>Image Credits: <a href="https://falaaharifkhan.github.io/research/">Falaah Arif Khan</a></figcaption>
+	</div>
+</figure>
 
+> Join us at our ICLR workshop on **Friday, May 7 2021** (0800 hrs - 1500 hrs Eastern Daylight Time)
 
-Algorithmic decision-making systems are increasingly used in sensitive applications such as advertising, resume reviewing, employment, credit lending, policing, criminal justice, and beyond. The long-term promise of these approaches is to automate, augment and/or eventually improve on the human decisions which can be biased or unfair, by leveraging the potential of machine learning to make decisions supported by historical data. Unfortunately, there is a growing body of evidence showing that the current machine learning technology is vulnerable to privacy or security attacks, lacks interpretability, or reproduces (and even exacerbates) historical biases or discriminatory behaviors against certain social groups. 
+> Please visit [our ICLR internal page](https://iclr.cc/virtual/2021/workshop/2142) to watch the live stream (requires an ICLR registration)
 
-Most of the literature on building socially responsible algorithmic decision-making systems focus on a static scenario where algorithmic decisions do not change the data distribution. However, real-world applications involve nonstationarities and feedback loops that must be taken into account to measure and mitigate fairness in the long-term. These feedback loops involve the learning process which may be biased because of insufficient exploration, or changes in the environment's dynamics due to strategic responses of the various stakeholders. From a machine learning perspective, these sequential processes are primarily studied through counterfactual analysis and reinforcement learning.
+Over the last decade, the volume of conference submissions in machine learning has broken records across the sciences. According to some estimates, submissions at machine learning conferences account for over 0.5% of all scientific papers published today. While submissions are at an all-time high, there is growing concern in the ML community about where the field is headed. The current pandemic gives researchers a long-awaited opportunity to pause and reflect: what kind of legacy do we want to leave behind? Is it in the number of papers we publish, or the number of citations we accumulate? Or, is it in the clarity and transparency of scientific communication? We believe the answers to these questions will shape the next few years of ML research.
 
-The purpose of this workshop is to bring together researchers from both industry and academia working on the full spectrum of responsible decision-making in dynamic environments, from theory to practice. In particular, we encourage submissions on the following topics: 
-* Fairness,
-* Privacy and security,
-* Robustness,
-* Conservative and safe algorithms,
-* Explainability and interpretability.
+How might we improve the scientific paper to create a more sustainable platform for future contributors? Many proposals have emerged, from novelty and rigor ([Sculley et al., 2018](https://openreview.net/pdf?id=rJWF0Fywf)), to reproducibility ([Pineau et al., 2020](https://arxiv.org/abs/2003.12206)), explainability ([Olah and Carter, 2017](https://distill.pub/2017/research-debt/)) and accessibility ([Morris, 2019](https://arxiv.org/abs/1908.08939)). In an era of social isolation and remote work, the importance of clear communication is crucial, both for demonstrating scientific progress and building human intuition and understanding. We propose taking a more holistic view of the conference paper, not just as a medium for communicating with a highly sophisticated audience, but as a tool for disseminating knowledge to the next generation of scientific researchers. In this workshop, to be organized at [ICLR 2021](https://iclr.cc/) we propose to discuss three high-level themes:
 
+* Accessibility and inclusivity - How do we design an inclusive publication format for ML research?
+* Explainability and pedagogy - How do we communicate ML research and theory more effectively?
+* Interpretability and visualization - How do we interpret complex information in a visual setting?
 
-Please see the call for papers on instructions to how to submit. 
+The research paper was originally a document printed and bound in journals: over time, these documents were published online and underwent minor cosmetic changes, yet many assumptions of the original format survive, namely, that research must take the form of a paper artifact. Yet modern ML research often contains multimedia and rich interactive applications, often hosted externally and can be displaced or go missing. To accommodate the diversity of new content, authors and publishers must adopt a more inclusive format for sharing scientific research and redesign conference publications to meet the evolving information needs of both authors and readers alike.
 
-Important dates: 
-
-
-
-
-
-
-The theme is quite easy to use if you're familiar with Jekyll. The following collections are implemented:
-1. **Speakers**: Curate a [speaker list like this one](speakers) from a set of markdown files, one per speaker. Crops and displays images if available. Adds a short bio. See files in the `_speakers` directory for examples.
-2. **Organizers**: Curate an organizer list from a set of markdown files, one per organizer. See files in the `_organizers` directory for examples.
-3. **Schedule**: Curate a [schedule like this](schedule) from a set of markdown files, one per event (talk, panel, break, etc.). See files in the `_schedule` directory for examples. Schedule items are sorted by a `sequence_id` attribute.
-4. **Papers**: Curate a [list of papers like this](papers) from a bunch of markdown files, one per paper. See files in the `_papers` directory for examples. Papers are sorted by a `sequence_id` attribute if specifed (else they are listed alphabetically).
+Among the ML research community, there is a variety of innovative content that does not reach traditional machine learning conferences. By showcasing work from ML researchers on the frontiers of digital publication, we hope to raise awareness for alternative writing styles and templates for publication. How can we improve understanding through scientific communication? How can we make the medium more inclusive and accessible for current and future contributors? These are some of the themes we hope to explore in our workshop. Please join us for an exciting discussion on redesigning the scientific paper for machine learning research!
 
 
+### News
+
+* Accepted papers and reviews [available](papers)
+* Thank you [reviewers](people/#reviewers)!
+* [Schedule](schedule) updated
+
+
+### Contact us
+
+The organizers may be reached at `rethinkingmlpapers <AT> <popular-email-service-from-google> <DOT> com`
+
+[Follow us on Twitter](https://twitter.com/rethinkmlpapers)!
+
+
+### Related past workshops
+
+1. [Visualization for AI Explainability (VISxAI)](https://visxai.io/) - 2020
+2. [Beyond the PDF](https://sites.google.com/site/beyondthepdf/home) - 2011
+3. [How to write a good review?](https://sites.google.com/view/making-reviews-great-again/) - CVPR 2020
+4. [Reproducibility in ML](https://sites.google.com/view/icml-reproducibility-workshop/home)
+5. [ML Retrospectives](https://ml-retrospectives.github.io/) - 2020

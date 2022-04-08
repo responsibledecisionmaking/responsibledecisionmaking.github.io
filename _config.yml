@@ -18,15 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-#title: Responsible Decision Making in Dynamic Environments Workshop, ICML 2022
+title: Responsible Decision Making in Dynamic Environments - ICML 2022 Workshop
 email: responsibledecisionmaking@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Website for the Responsible Decision Making in Dynamic Environments Workshop, ICML 2022.
+  To discuss current challenges and possible solutions of responsible sequential decision making.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: responsibledec1
 github_username:  responsibledecisionmaking
-
 
 # Build settings
 plugins:
@@ -37,12 +36,12 @@ plugins:
 # this and add the path to the pages in order as they should show up
 header_pages:
 - index.md
-- speakers.md
-- callforpapers.md
 - schedule.md
 - papers.md
+- speakers.md
 - organizers.md
-- contactus.md
+- submit.md
+# - getinvolved.md
 
 # # Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
 # masthead: assets/img/banner.jpg
@@ -51,7 +50,7 @@ header_pages:
 
 # A two-line attribution (remove this if you have to, but we'd appreciate if you leave this as is)
 attribution: >
-  Based on a <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> template from a <a href="https://krrish94.github.io">lazy grad student</a>.
+  Based on a <a href="http://jekyllrb.com/">Jekyll</a> template from a <a href="https://krrish94.github.io">lazy grad student</a>.
   Some icons made by <a href="https://smashicons.com/" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>.
 
 # Displays a "last updated" date in the footer if set to "true"
@@ -92,4 +91,4 @@ collections:
 #   - vendor/ruby/
 
 # Google analytics id. Add your tracking id to get visitor stats.
-# google_analytics: # tracking id
+google_analytics: G-CX3VQEBHV4

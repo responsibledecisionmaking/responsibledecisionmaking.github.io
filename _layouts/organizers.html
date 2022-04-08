@@ -48,9 +48,16 @@ layout: default
 		                {% endif %}
 		            </div>
 		        </td>
+		        <td style="border: none;">
+		        	<div class="people-name text-center">
+		        		{{ organizer.content }}
+		        	</div>
+		        </td>
 		    </tr>
 	    {% endfor %}
 	  </table>
   </div>
+
+  {{ content }}
 
 </article>
