@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9f72a4d-2e38-4a08-85af-e2a4a5aaa500" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_organizers/06-satija.md" beforeDir="false" afterPath="$PROJECT_DIR$/_organizers/06-satija.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/organizers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/organizers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,12 +12,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="753">
-                <caret line="59" column="89" selection-start-line="59" selection-start-column="89" selection-end-line="59" selection-end-column="89" />
+              <first_editor relative-caret-position="790">
+                <caret line="48" column="77" selection-start-line="48" selection-start-column="77" selection-end-line="48" selection-end-column="77" />
               </first_editor>
               <second_editor />
             </state>
@@ -86,7 +84,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -197,9 +195,9 @@
         <option value="$PROJECT_DIR$/_organizers/07-usunier.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/submit.md" />
-        <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/_organizers/06-satija.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/index.md" />
       </list>
     </option>
   </component>
@@ -298,12 +296,12 @@
       <option name="presentableId" value="Default" />
       <updated>1649353926039</updated>
       <workItem from="1649353931279" duration="9358000" />
-      <workItem from="1649446675804" duration="2245000" />
+      <workItem from="1649446675804" duration="2483000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11603000" />
+    <option name="totallyTimeSpent" value="11841000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="96" y="95" width="2194" height="1225" extended-state="0" />
@@ -688,28 +686,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/submit.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="576">
             <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="753">
-            <caret line="59" column="89" selection-start-line="59" selection-start-column="89" selection-end-line="59" selection-end-column="89" />
           </first_editor>
           <second_editor />
         </state>
@@ -730,6 +711,23 @@
         <state split_layout="SPLIT">
           <first_editor>
             <caret column="1" selection-start-column="1" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="790">
+            <caret line="48" column="77" selection-start-line="48" selection-start-column="77" selection-end-line="48" selection-end-column="77" />
           </first_editor>
           <second_editor />
         </state>

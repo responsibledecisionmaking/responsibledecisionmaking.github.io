@@ -46,7 +46,7 @@ The purpose of this workshop is to bring together researchers from both industry
 
 ### Contact us
 
-The organizers may be reached at `responsibledecisionmaking <AT> gmail.com`
+The organizers may be reached at `responsibledecisionmaking <AT> gmail <DOT> com`
 
 [Follow us on Twitter](https://twitter.com/responsibledec1)!
 
