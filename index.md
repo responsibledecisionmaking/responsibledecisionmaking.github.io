@@ -7,8 +7,6 @@ title: Home
 layout: home
 ---
 
-<!-- > "All communication must lead to change." -- Aristotle -->
-
 <!-- 
 <figure>
 	<div style="text-align:center">
@@ -17,8 +15,6 @@ layout: home
 	</div>
 </figure>
 -->
-
-<!-- > Join us at our ICLR workshop on **Friday, May 7 2021** (0800 hrs - 1500 hrs Eastern Daylight Time) -->
 
 
 Algorithmic decision-making systems are increasingly used in sensitive applications such as advertising, resume reviewing, employment, credit lending, policing, criminal justice, and beyond. The long-term promise of these approaches is to automate, augment and/or eventually improve on the human decisions which can be biased or unfair, by leveraging the potential of machine learning to make decisions supported by historical data. Unfortunately, there is a growing body of evidence showing that the current machine learning technology is vulnerable to privacy or security attacks, lacks interpretability, or reproduces (and even exacerbates) historical biases or discriminatory behaviors against certain social groups.
@@ -31,6 +27,61 @@ The purpose of this workshop is to bring together researchers from both industry
 * Robustness,
 * Conservative and safe algorithms,
 * Explainability and interpretability.
+
+
+### Invited Speakers 
+ 
+<figure>
+	<div class = "post-content">
+	  <table style="border-collapse: collapse; border: none;">
+	  	{% for speaker in site.speakers %}
+		    <tr style="border: none;">
+		        <td style="border: none;">
+		            <div class="col-xs-6">
+		                <p align="center">
+		                	{% if speaker.img %}
+		                    	<img class="people-pic" src="{{ speaker.img | prepend: '/assets/img/speakers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+		                    {% else %}
+		                    	<img class="people-pic" src="{{ 'avatar.jpg' | prepend: '/assets/img/speakers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+		                    {% endif %}
+		                </p>
+		            </div>
+		        </td>
+    		    <td style="border: none;">
+		            <div class="people-name text-center">
+		            	<!-- Speaker name (link to webpage if provided) -->
+		            	{% if speaker.webpage %}
+		            		<b><a href="{{ speaker.webpage }}" target="_blank">{{ speaker.name }}</a></b>
+		            	{% else %}
+		            		<b>{{ speaker.name }}</b>
+		            	{% endif %}
+		                <br>
+		                <!-- Speaker affiliation (if provided) -->
+		                {% if speaker.affil_link %}
+		                	<a href="{{ speaker.affil_link }}" target="_blank">{{ speaker.affil }}</a>
+		                {% else %}
+		                	{{ speaker.affil }}
+		                {% endif %}
+		                <!-- Additional speaker affiliation (if provided) -->
+		                {% if speaker.affil2_link %}
+		                	<br>
+		                	<a href="{{ speaker.affil2_link }}" target="_blank">{{ speaker.affil2 }}</a>
+		                {% elsif speaker.affil2 %}
+		                	<br>
+		                	{{ speaker.affil2 }}
+		                {% endif %}
+		            </div>
+		        </td>
+		        <td style="border: none;">
+		        	<div class="people-name text-center">
+		        		{{ speaker.content }}
+		        	</div>
+		        </td>
+		    </tr>
+	    {% endfor %}
+	  </table>
+  </div>
+</figure>
 
 
 ### News

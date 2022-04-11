@@ -1,55 +1,29 @@
-<!DOCTYPE html>
-<html lang="en"><head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Speakers | Responsible Decision Making in Dynamic Environments - ICML 2022 Workshop</title>
-<meta name="generator" content="Jekyll v4.2.0" />
-<meta property="og:title" content="Speakers" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Workshop to discuss the current challenges and possible solutions of responsible sequential decision making." />
-<meta property="og:description" content="Workshop to discuss the current challenges and possible solutions of responsible sequential decision making." />
-<link rel="canonical" href="/speakers/" />
-<meta property="og:url" content="/speakers/" />
-<meta property="og:site_name" content="Responsible Decision Making in Dynamic Environments - ICML 2022 Workshop" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Speakers" />
-<script type="application/ld+json">
-{"headline":"Speakers","url":"/speakers/","@type":"WebPage","description":"Workshop to discuss the current challenges and possible solutions of responsible sequential decision making.","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Responsible Decision Making in Dynamic Environments - ICML 2022 Workshop" />
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-  
-</head>
-<body><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+I"G9<!-- 
+<figure>
+	<div style="text-align:center">
+		<img src="assets/img/banner.png" alt="A logo image for the rethinking ML papers workshop, designed by Falaah Arif Khan" />
+		<figcaption>Image Credits: <a href="https://falaaharifkhan.github.io/research/">Falaah Arif Khan</a></figcaption>
+	</div>
+</figure>
+-->
 
-<header class="site-header">
-  <div class="wrapper"><!-- <a class="site-title" rel="author" href="/">Responsible Decision Making in Dynamic Environments - ICML 2022 Workshop</a> --><a class="site-title" rel="author" href="/">Responsible Decision Making in Dynamic Environments - ICML 2022 Workshop</a><nav class="site-nav">
-        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-        <label for="nav-trigger">
-          <span class="menu-icon">
-            <svg viewBox="0 0 18 15" width="18px" height="15px">
-              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
-            </svg>
-          </span>
-        </label>
+<p>Algorithmic decision-making systems are increasingly used in sensitive applications such as advertising, resume reviewing, employment, credit lending, policing, criminal justice, and beyond. The long-term promise of these approaches is to automate, augment and/or eventually improve on the human decisions which can be biased or unfair, by leveraging the potential of machine learning to make decisions supported by historical data. Unfortunately, there is a growing body of evidence showing that the current machine learning technology is vulnerable to privacy or security attacks, lacks interpretability, or reproduces (and even exacerbates) historical biases or discriminatory behaviors against certain social groups.</p>
 
-        <div class="trigger">
+<p>Most of the literature on building socially responsible algorithmic decision-making systems focus on a static scenario where algorithmic decisions do not change the data distribution. However, real-world applications involve nonstationarities and feedback loops that must be taken into account to measure and mitigate fairness in the long-term. These feedback loops involve the learning process which may be biased because of insufficient exploration, or changes in the environment’s dynamics due to strategic responses of the various stakeholders. From a machine learning perspective, these sequential processes are primarily studied through counterfactual analysis and reinforcement learning.</p>
 
-<!--          <a href="https://twitter.com/responsibledec1" class="fa fa-twitter"></a>--><a class="page-link" href="/">Home</a><a class="page-link" href="/schedule/">Schedule</a><a class="page-link" href="/papers/">Papers</a><a class="page-link" href="/organizers/">Organizers</a><a class="page-link" href="/submit/">Submit</a></div>
-      </nav></div>
-</header>
-<main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <article class="post">
+<p>The purpose of this workshop is to bring together researchers from both industry and academia working on the full spectrum of responsible decision-making in dynamic environments, from theory to practice. In particular, we encourage submissions on the following topics:</p>
+<ul>
+  <li>Fairness,</li>
+  <li>Privacy and security,</li>
+  <li>Robustness,</li>
+  <li>Conservative and safe algorithms,</li>
+  <li>Explainability and interpretability.</li>
+</ul>
 
-  <header class="post-header">
-    <h1 class="post-title">Speakers</h1>
-  </header>
+<h3 id="invited-speakers">Invited Speakers</h3>
 
-  <div class = "post-content">
+<figure>
+	<div class="post-content">
 	  <table style="border-collapse: collapse; border: none;">
 	  	
 		    <tr style="border: none;">
@@ -57,18 +31,18 @@
 		            <div class="col-xs-6">
 		                <p align="center">
 		                	
-		                    	<img class="people-pic" src="/assets/img/speakers/aaron.jpeg" target="_blank">
+		                    	<img class="people-pic" src="/assets/img/speakers/aaron.jpeg" target="_blank" />
 		                    
 		                </p>
 		            </div>
 		        </td>
-		        <td style="border: none;">
+    		    <td style="border: none;">
 		            <div class="people-name text-center">
 		            	<!-- Speaker name (link to webpage if provided) -->
 		            	
 		            		<b><a href="https://www.cis.upenn.edu/~aaroth/" target="_blank">Aaron Roth</a></b>
 		            	
-		                <br>
+		                <br />
 		                <!-- Speaker affiliation (if provided) -->
 		                
 		                	University of Pennsylvania
@@ -92,18 +66,18 @@
 		            <div class="col-xs-6">
 		                <p align="center">
 		                	
-		                    	<img class="people-pic" src="/assets/img/speakers/craig.jpeg" target="_blank">
+		                    	<img class="people-pic" src="/assets/img/speakers/craig.jpeg" target="_blank" />
 		                    
 		                </p>
 		            </div>
 		        </td>
-		        <td style="border: none;">
+    		    <td style="border: none;">
 		            <div class="people-name text-center">
 		            	<!-- Speaker name (link to webpage if provided) -->
 		            	
 		            		<b><a href="https://research.google/people/CraigBoutilier/" target="_blank">Craig Boutilier</a></b>
 		            	
-		                <br>
+		                <br />
 		                <!-- Speaker affiliation (if provided) -->
 		                
 		                	Google
@@ -127,18 +101,18 @@
 		            <div class="col-xs-6">
 		                <p align="center">
 		                	
-		                    	<img class="people-pic" src="/assets/img/speakers/cynthia.jpeg" target="_blank">
+		                    	<img class="people-pic" src="/assets/img/speakers/cynthia.jpeg" target="_blank" />
 		                    
 		                </p>
 		            </div>
 		        </td>
-		        <td style="border: none;">
+    		    <td style="border: none;">
 		            <div class="people-name text-center">
 		            	<!-- Speaker name (link to webpage if provided) -->
 		            	
 		            		<b><a href="https://users.cs.duke.edu/~cynthia/" target="_blank">Cynthia Rudin</a></b>
 		            	
-		                <br>
+		                <br />
 		                <!-- Speaker affiliation (if provided) -->
 		                
 		                	Duke University
@@ -162,18 +136,18 @@
 		            <div class="col-xs-6">
 		                <p align="center">
 		                	
-		                    	<img class="people-pic" src="/assets/img/speakers/finale.jpeg" target="_blank">
+		                    	<img class="people-pic" src="/assets/img/speakers/finale.jpeg" target="_blank" />
 		                    
 		                </p>
 		            </div>
 		        </td>
-		        <td style="border: none;">
+    		    <td style="border: none;">
 		            <div class="people-name text-center">
 		            	<!-- Speaker name (link to webpage if provided) -->
 		            	
 		            		<b><a href="https://finale.seas.harvard.edu/" target="_blank">Finale Doshi-Velez</a></b>
 		            	
-		                <br>
+		                <br />
 		                <!-- Speaker affiliation (if provided) -->
 		                
 		                	Harvard University
@@ -197,18 +171,18 @@
 		            <div class="col-xs-6">
 		                <p align="center">
 		                	
-		                    	<img class="people-pic" src="/assets/img/speakers/masoud.jpeg" target="_blank">
+		                    	<img class="people-pic" src="/assets/img/speakers/masoud.jpeg" target="_blank" />
 		                    
 		                </p>
 		            </div>
 		        </td>
-		        <td style="border: none;">
+    		    <td style="border: none;">
 		            <div class="people-name text-center">
 		            	<!-- Speaker name (link to webpage if provided) -->
 		            	
-		            		<b><a href="https://scholar.google.com/citations?user=TSG6jcMAAAAJ&hl=en" target="_blank">Masoud Mansoury</a></b>
+		            		<b><a href="https://scholar.google.com/citations?user=TSG6jcMAAAAJ&amp;hl=en" target="_blank">Masoud Mansoury</a></b>
 		            	
-		                <br>
+		                <br />
 		                <!-- Speaker affiliation (if provided) -->
 		                
 		                	University of Amsterdam
@@ -232,18 +206,18 @@
 		            <div class="col-xs-6">
 		                <p align="center">
 		                	
-		                    	<img class="people-pic" src="/assets/img/speakers/barocas.jpeg" target="_blank">
+		                    	<img class="people-pic" src="/assets/img/speakers/barocas.jpeg" target="_blank" />
 		                    
 		                </p>
 		            </div>
 		        </td>
-		        <td style="border: none;">
+    		    <td style="border: none;">
 		            <div class="people-name text-center">
 		            	<!-- Speaker name (link to webpage if provided) -->
 		            	
 		            		<b><a href="http://solon.barocas.org/" target="_blank">Solon Barocas</a></b>
 		            	
-		                <br>
+		                <br />
 		                <!-- Speaker affiliation (if provided) -->
 		                
 		                	Microsoft, Cornell University
@@ -264,43 +238,39 @@
 	    
 	  </table>
   </div>
+</figure>
 
-</article>
+<h3 id="news">News</h3>
 
-      </div>
-    </main><footer class="site-footer h-card">
-  <data class="u-url" href="/"></data>
+<ul>
+  <li>Call for papers is out! Last date to submit is <strong>May 31, 2022</strong>. Please check <a href="submit">instructions</a> on how to submit.</li>
+</ul>
 
-  <div class="wrapper">
+<!--
+* [Schedule](schedule) updated. 
+* Accepted papers and reviews [available](papers)
+* Thank you [reviewers](people/#reviewers)! 
+-->
 
-    <div class="footer-col-wrapper">
-<!--      <div class="footer-col">-->
-<!--        <p class="feed-subscribe">-->
-<!--          <a href="/feed.xml">-->
-<!--            <svg class="svg-icon orange" role="img">-->
-<!--              <title id="titleSocialIcons">social icons</title>-->
-<!--              <use xlink:href="/assets/minima-social-icons.svg#rss"></use>-->
-<!--            </svg><span>Subscribe</span>-->
-<!--          </a>-->
-<!--        </p>-->
-<!---->
-<!--      </div>-->
-      <div class="footer-col">
-        <p>Workshop to discuss the current challenges and possible solutions of responsible sequential decision making.</p>
-        <p>Based on a <a href="http://jekyllrb.com/">Jekyll</a> template from a <a href="https://krrish94.github.io">lazy grad student</a>. Some icons made by <a href="https://smashicons.com/" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>.
-</p>
-        
-        Last updated: April 11, 2022.
-        
-      </div>
-    </div>
+<h3 id="contact-us">Contact us</h3>
 
-    <div class="social-links"><ul class="social-media-list"></ul>
-</div>
+<p>The organizers may be reached at <code class="language-plaintext highlighter-rouge">responsibledecisionmaking &lt;AT&gt; gmail &lt;DOT&gt; com</code></p>
 
-  </div>
+<p><a href="https://twitter.com/responsibledec1">Follow us on Twitter</a>!</p>
 
-</footer>
-</body>
+<h3 id="related-past-workshops">Related past workshops</h3>
 
-</html>
+<ol>
+  <li><a href="https://iclrsrml.github.io/">Socially Responsible Machine Learning (SRML)</a> - ICLR, 2022</li>
+  <li><a href="https://icmlsrml2021.github.io/">Socially Responsible Machine Learning</a> - ICML, 2021</li>
+  <li><a href="https://sites.google.com/view/strategicml/">Learning in Presence of Strategic Behavior</a> - NeurIPS, 2021</li>
+  <li><a href="https://sites.google.com/view/rai-workshop/home">Workshop on Responsible AI </a> - ICLR, 2021</li>
+  <li><a href="https://dynamicdecisions.github.io/">Workshop on Consequential Decision Making in Dynamic Environments</a> - NeurIPS, 2020</li>
+  <li><a href="https://sites.google.com/view/icml-law-and-ml-2020/home">Law &amp; Machine Learning (LML)</a> - ICML, 2020</li>
+  <li><a href="https://sites.google.com/view/whi2020">Workshop on Human Interpretability in Machine Learning (WHI)</a> - ICML, 2020</li>
+  <li><a href="https://sites.google.com/view/RL4RealLife">Reinforcement Learning for Real Life Workshop</a> - ICML, 2021</li>
+  <li><a href="https://sites.google.com/view/safe-robust-control/home">Safe and Robust Control of Uncertain Systems</a> - NeurIPS, 2021</li>
+  <li><a href="https://perls-workshop.github.io/">Political Economy of Reinforcement Learning (PERLS) Workshop
+</a> - NeurIPS, 2021</li>
+</ol>
+:ET

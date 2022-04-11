@@ -38,7 +38,7 @@ header_pages:
 - index.md
 - schedule.md
 - papers.md
-- speakers.md
+# - speakers.md
 - organizers.md
 - submit.md
 # - getinvolved.md
