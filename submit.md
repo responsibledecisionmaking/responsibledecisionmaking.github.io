@@ -31,7 +31,9 @@ Outstanding papers will also be considered for a 15 minutes oral presentation.
 
 **Page limit**: 4 pages excluding references. 
 
-**Paper format**: [ICML format](https://icml.cc/Conferences/2022/StyleAuthorInstructions), anonymous.
+**Paper format**: The submitted papers should be anonymized and use the following ICML-based **[template](/assets/template/rdmde2022.zip)**.  
 
-**Submission server**: [https://cmt3.research.microsoft.com/RDMDE2022](https://cmt3.research.microsoft.com/RDMDE2022)
+<!-- [ICML format](https://icml.cc/Conferences/2022/StyleAuthorInstructions), anonymous. -->
+
+**Submission server**: [https://cmt3.research.microsoft.com/RDMDE2022](https://cmt3.research.microsoft.com/RDMDE2022).
 

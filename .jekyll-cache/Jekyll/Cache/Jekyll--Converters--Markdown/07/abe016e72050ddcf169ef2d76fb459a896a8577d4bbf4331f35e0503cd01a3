@@ -1,4 +1,4 @@
-I"y<p>We invite submissions from the entire spectrum of responsible decision-making in dynamic environments, from theory to practice. In particular, we encourage submissions on the following topics:</p>
+I"<p>We invite submissions from the entire spectrum of responsible decision-making in dynamic environments, from theory to practice. In particular, we encourage submissions on the following topics:</p>
 <ul>
   <li>Fairness,</li>
   <li>Privacy and security,</li>
@@ -37,8 +37,10 @@ Outstanding papers will also be considered for a 15 minutes oral presentation.</
 
 <p><strong>Page limit</strong>: 4 pages excluding references.</p>
 
-<p><strong>Paper format</strong>: <a href="https://icml.cc/Conferences/2022/StyleAuthorInstructions">ICML format</a>, anonymous.</p>
+<p><strong>Paper format</strong>: The submitted papers should be anonymized and use the following ICML-based <ins><a href="/assets/template/rdmde2022.zip">template</a><ins>.</ins></ins></p>
 
-<p><strong>Submission server</strong>: <a href="https://cmt3.research.microsoft.com/RDMDE2022">https://cmt3.research.microsoft.com/RDMDE2022</a></p>
+<!-- [ICML format](https://icml.cc/Conferences/2022/StyleAuthorInstructions), anonymous. -->
+
+<p><strong>Submission server</strong>: <a href="https://cmt3.research.microsoft.com/RDMDE2022">https://cmt3.research.microsoft.com/RDMDE2022</a>.</p>
 
 :ET
