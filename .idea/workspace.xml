@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9f72a4d-2e38-4a08-85af-e2a4a5aaa500" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/07/abe016e72050ddcf169ef2d76fb459a896a8577d4bbf4331f35e0503cd01a3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/10/c751b65980f60ffc0e0090dd1a0dd56b9bea149c05733d340307848f67ac9d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/53/0bf99f7aa4cf19e1685db0cd49aa721b00ba55fdbd0bfcb99b34e3f72bce51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/38/d98ce76008b2e6e2fa8d474b5591eaee1789c164ee79464b4a7b9626b86370" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/4a/9fbac0d46d55b1d80a1e28e8eb791475597fc22f9d90109620234fef479d93" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e8/f4a169d682d81a093f20d8328c20b9df5c12553c99707dc9deea9e9217d165" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/getinvolved/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/getinvolved/index.html" afterDir="false" />
@@ -15,6 +14,7 @@
       <change beforePath="$PROJECT_DIR$/_site/schedule/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/schedule/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/speakers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/speakers/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/submit/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/submit/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/submit.md" beforeDir="false" afterPath="$PROJECT_DIR$/submit.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,24 +25,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="558">
-                <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+              <first_editor relative-caret-position="363">
+                <caret line="88" column="87" selection-start-line="88" selection-start-column="87" selection-end-line="88" selection-end-column="87" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/submit.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="540">
-                <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+              <first_editor relative-caret-position="594">
+                <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
               </first_editor>
               <second_editor />
             </state>
@@ -145,9 +145,9 @@
         <option value="$PROJECT_DIR$/_organizers/07-usunier.md" />
         <option value="$PROJECT_DIR$/_organizers/06-satija.md" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/submit.md" />
+        <option value="$PROJECT_DIR$/index.md" />
       </list>
     </option>
   </component>
@@ -244,17 +244,18 @@
       <workItem from="1649446675804" duration="3285000" />
       <workItem from="1650377857193" duration="858000" />
       <workItem from="1651587803634" duration="111000" />
+      <workItem from="1656644864874" duration="340000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13612000" />
+    <option name="totallyTimeSpent" value="13952000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="96" y="95" width="2194" height="1225" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18355018" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18494424" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -623,16 +624,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="558">
-            <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -660,8 +651,18 @@
     <entry file="file://$PROJECT_DIR$/submit.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="540">
-            <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+          <first_editor relative-caret-position="594">
+            <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="363">
+            <caret line="88" column="87" selection-start-line="88" selection-start-column="87" selection-end-line="88" selection-end-column="87" />
           </first_editor>
           <second_editor />
         </state>

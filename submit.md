@@ -25,6 +25,8 @@ Outstanding papers will also be considered for a 15 minutes oral presentation.
 
 | Submission deadline | 31 May, 2022 (Anywhere on Earth)|
 | Notifications | 13 June, 2022|
+| Camera-ready deadline | 9 July, 2022|
+| Video submission deadline | 16 July, 2022|
 | Day of workshop | 23 July, 2022|
 
 ### Submisison guidelines
