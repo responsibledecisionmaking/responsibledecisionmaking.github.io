@@ -8,12 +8,13 @@ title:
 # Accepted for oral presentation?
 oral: 
 
+# Abstract for the papers
+abstract:
+
 # Paper authors
 authors: 
 
-
-# Abstract for the papers
-abstract: 
+ 
 
 # Talk video (only the video id; i.e., string following https://youtu.be/)
 youtube: 
