@@ -100,6 +100,8 @@ layout: default
 								</script>
 							{% elsif paper.drive %}
 								 <video src="{{ paper.drive }}" controls="controls" style="max-width: 300px;" >
+							{% elsif paper.drive2 %}
+								 <a class="btn btn-outline-primary" href="{{ paper.drive2 }}" role="button" target="_blank">Video</a>
 							{% endif %}
 						</div>
 					</td>
