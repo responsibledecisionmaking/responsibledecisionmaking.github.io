@@ -2,43 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9f72a4d-2e38-4a08-85af-e2a4a5aaa500" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_schedule/talk_06_contributed.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_schedule/talk_07_contributed.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/2e/7e4f5c405f41848abedce9a8dc09e54cdbf153806791ebb69c55ec690d67bf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/56/99d00d5cc6605523131bd534dfc5371d71fd9ff5a8ca74564158ebb241d34d" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/schedule.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_papers/paper_00.md" beforeDir="false" afterPath="$PROJECT_DIR$/_papers/paper_00.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_schedule/talk_01.md" beforeDir="false" afterPath="$PROJECT_DIR$/_schedule/talk_01.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_schedule/talk_02_spotlight.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_schedule/talk_03_poster.md" beforeDir="false" afterPath="$PROJECT_DIR$/_schedule/talk_03_poster.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_schedule/talk_04_break.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_schedule/talk_05.md" beforeDir="false" afterPath="$PROJECT_DIR$/_schedule/talk_05.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_schedule/talk_06.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_schedule/talk_07.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_schedule/talk_09.md" beforeDir="false" afterPath="$PROJECT_DIR$/_schedule/talk_09.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_schedule/talk_10.md" beforeDir="false" afterPath="$PROJECT_DIR$/_schedule/talk_10.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_schedule/talk_12.md" beforeDir="false" afterPath="$PROJECT_DIR$/_schedule/talk_12.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_schedule/talk_13.md" beforeDir="false" afterPath="$PROJECT_DIR$/_schedule/talk_13.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_schedule/talk_14_panel.md" beforeDir="false" afterPath="$PROJECT_DIR$/_schedule/talk_14_contributed.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_schedule/talk_15_social.md" beforeDir="false" afterPath="$PROJECT_DIR$/_schedule/talk_15_contributed.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/getinvolved/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/getinvolved/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/organizers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/organizers/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/papers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/papers/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/schedule/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/schedule/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/schedule/talk_02_spotlight.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/schedule/talk_04_break.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/schedule/talk_06.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/schedule/talk_07.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/schedule/talk_14_panel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/schedule/talk_15_social.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/speakers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/speakers/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/submit/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/submit/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule.md" beforeDir="false" afterPath="$PROJECT_DIR$/schedule.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +19,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="180">
-                <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="16" selection-end-column="3" />
+                <caret line="9" selection-start-line="9" selection-end-line="16" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -75,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+            <state relative-caret-position="213">
+              <caret line="12" column="87" selection-start-line="12" selection-start-column="87" selection-end-line="12" selection-end-column="87" />
             </state>
           </provider>
         </entry>
@@ -283,12 +249,12 @@
       <workItem from="1650377857193" duration="858000" />
       <workItem from="1651587803634" duration="111000" />
       <workItem from="1656644864874" duration="778000" />
-      <workItem from="1658159172248" duration="3917000" />
+      <workItem from="1658159172248" duration="4082000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18307000" />
+    <option name="totallyTimeSpent" value="18472000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="96" y="95" width="2194" height="1225" extended-state="0" />
@@ -736,7 +702,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="180">
-            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="16" selection-end-column="3" />
+            <caret line="9" selection-start-line="9" selection-end-line="16" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -744,8 +710,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+        <state relative-caret-position="213">
+          <caret line="12" column="87" selection-start-line="12" selection-start-column="87" selection-end-line="12" selection-end-column="87" />
         </state>
       </provider>
     </entry>
