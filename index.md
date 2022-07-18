@@ -86,6 +86,7 @@ The purpose of this workshop is to bring together researchers from both industry
 
 ### News
 
+* Accepted papers and talks are now [visible](papers). 
 * Camera-ready and video submission deadlines are updated in [important dates](submit).
 * Notifications for Accepted papers are out.   
 * Call for papers is out! Last date to submit is **May 31, 2022**. Please check [instructions](submit) on how to submit.
