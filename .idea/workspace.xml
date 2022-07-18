@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9f72a4d-2e38-4a08-85af-e2a4a5aaa500" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_layouts/papers.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/papers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_papers/base.md" beforeDir="false" afterPath="$PROJECT_DIR$/_papers/base.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/papers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/papers/index.html" afterDir="false" />
     </list>
@@ -59,7 +59,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/papers.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="822">
@@ -71,12 +71,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_papers/11.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_papers/19.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="558">
-                <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+              <first_editor relative-caret-position="198">
+                <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -95,6 +95,7 @@
       <find>page-hea</find>
       <find>cen</find>
       <find>theme</find>
+      <find>:</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -103,12 +104,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_schedule/talk_03.md" />
-        <option value="$PROJECT_DIR$/_schedule/talk_04.md" />
-        <option value="$PROJECT_DIR$/_schedule/talk_08_break.md" />
-        <option value="$PROJECT_DIR$/_schedule/talk_11_poster.md" />
-        <option value="$PROJECT_DIR$/_schedule/talk_14_panel.md" />
-        <option value="$PROJECT_DIR$/_schedule/talk_15_social.md" />
         <option value="$PROJECT_DIR$/organizers.md" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/assets/css/workshop.css" />
@@ -146,7 +141,6 @@
         <option value="$PROJECT_DIR$/_papers/04.md" />
         <option value="$PROJECT_DIR$/_papers/paper_04.md" />
         <option value="$PROJECT_DIR$/_papers/05.md" />
-        <option value="$PROJECT_DIR$/_papers/base.md" />
         <option value="$PROJECT_DIR$/_papers/06.md" />
         <option value="$PROJECT_DIR$/_papers/07.md" />
         <option value="$PROJECT_DIR$/_papers/08.md" />
@@ -154,6 +148,13 @@
         <option value="$PROJECT_DIR$/_papers/10.md" />
         <option value="$PROJECT_DIR$/_papers/11.md" />
         <option value="$PROJECT_DIR$/_layouts/papers.html" />
+        <option value="$PROJECT_DIR$/_papers/base.md" />
+        <option value="$PROJECT_DIR$/_papers/13.md" />
+        <option value="$PROJECT_DIR$/_papers/15.md" />
+        <option value="$PROJECT_DIR$/_papers/16.md" />
+        <option value="$PROJECT_DIR$/_papers/17.md" />
+        <option value="$PROJECT_DIR$/_papers/18.md" />
+        <option value="$PROJECT_DIR$/_papers/19.md" />
       </list>
     </option>
   </component>
@@ -252,12 +253,12 @@
       <workItem from="1650377857193" duration="858000" />
       <workItem from="1651587803634" duration="111000" />
       <workItem from="1656644864874" duration="778000" />
-      <workItem from="1658159172248" duration="9412000" />
+      <workItem from="1658159172248" duration="10499000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23802000" />
+    <option name="totallyTimeSpent" value="24889000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="96" y="95" width="2194" height="1225" extended-state="0" />
@@ -290,63 +291,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="1" selection-start-column="1" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_organizers/04-pineau.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="144">
-            <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_organizers/07-usunier.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="144">
-            <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/submit.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="504">
-            <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/speakers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="58" column="8" selection-start-line="57" selection-start-column="12" selection-end-line="58" selection-end-column="8" />
-          <folding>
-            <element signature="n#td#0;n#tr#0;n#table#0;n#div#0;n#article#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="40" column="2" selection-start-line="40" selection-start-column="2" selection-end-line="40" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_schedule/talk_02_spotlight.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -685,16 +629,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_papers/base.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="414">
-            <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_papers/06.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -755,6 +689,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_papers/base.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="360">
+            <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_papers/13.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="396">
+            <caret line="15" column="617" selection-start-line="15" selection-start-column="617" selection-end-line="15" selection-end-column="617" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_papers/15.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="306">
+            <caret line="15" column="185" selection-start-line="15" selection-start-column="185" selection-end-line="15" selection-end-column="185" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_papers/16.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="792">
+            <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_papers/17.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_papers/18.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="198">
+            <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/papers.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="822">
@@ -762,6 +756,16 @@
           <folding>
             <element signature="n#style#0;n#video#0;n#div#0;n#td#2;n#tr#1;n#table#0;n#div#0;n#article#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_papers/19.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="198">
+            <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
