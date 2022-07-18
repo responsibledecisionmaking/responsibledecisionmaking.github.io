@@ -1,9 +1,9 @@
 ---
 sequence_id: 13
-speaker: 
+speaker: Craig Boutilier 
 title: Invited Talk 6
 time: 1630
 #affil: 
-#webpage: 
+webpage: https://research.google/people/CraigBoutilier/
 #abstract: TBD
 ---

@@ -22,4 +22,6 @@ abstract: The machine learning publication process is broken, of that there can 
 
 # Talk video (only the video id; i.e., string following https://youtu.be/)
 youtube: ba1C0N2i4D0
+
+pdf: 00.pdf
 ---

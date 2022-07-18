@@ -1,9 +1,9 @@
 ---
 sequence_id: 10
-speaker: 
+speaker: Solon Barocas
 title: Invited Talk 4
 time: 1430
 #affil: 
-#webpage: 
+webpage: http://solon.barocas.org/
 #abstract: TBD
 ---
