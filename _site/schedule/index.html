@@ -170,8 +170,14 @@
 		                
 		            </div>
 		        	<div class="col-xs-12">
-			        	<b>Invited Talk 1</b>
+			        	<b>Responsible Decision-Making in Batch RL Settings</b>
 		        	</div>
+		        	
+		        		<br>
+		        		<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#1">See Abstract</button>
+					  	<div id="1" class="collapse out">
+						    Responsible decision-making is tough in batch settings because policy improvement involves doing something different from the current behavior policy -- but we only have data from that current behavior policy.  In this talk, I'll first briefly share not only the variety of approaches we have taken to identify better hypotension treatment policies for ICU patients, but also our difficulties in trying to validate them.  Next, I'll describe recent work which focuses on (a) identifying where clinicians disagree and (b) only making recommendations at those decision points.  (The core idea being that, statistically, we only have evidence to suggest an alternate policy in areas where we have observed clinician disagreement.)  The result is a set of recommendations that has both more statistical support and is easier for clinicians to inspect for validity.
+					  	</div>
 		        	
 		        </td>
 		    </tr>
@@ -264,8 +270,14 @@
 		                
 		            </div>
 		        	<div class="col-xs-12">
-			        	<b>Invited Talk 2</b>
+			        	<b>Robust Multivalid Uncertainty Quantification</b>
 		        	</div>
+		        	
+		        		<br>
+		        		<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#5">See Abstract</button>
+					  	<div id="5" class="collapse out">
+						    When deciding how to act as a function of our predictions, it is important to be able to quantify the uncertainty in our predictions. Traditional conformal prediction methods give a very simple, general way of attaching uncertainty sets to black box predictions, but have two well-known shortcomings - first, they generally require that the future look like the past --- i.e. that the data be i.i.d. or exchangeable. While mathematically convenient, this often fails in the face of various kinds of distribution shift. Second, they provide marginal coverage guarantees --- i.e. guarantees that are valid only as averaged over all instances. This can paper over weaknesses of a model on small sub-populations, which is especially worrisome when we are making predictions about people. I'll present an exciting (I think :-) new method that solves both of these problems; it can endow arbitrary black box predictors with prediction sets that promise statistically optimal empirical coverage guarantees not just marginally, but conditionally on a large number of arbitrarily defined (possibly intersecting!) subsets of the data, and does so without requiring any distributional assumptions at all --- i.e. it has guarantees even against adversarially chosen streams of data.
+					  	</div>
 		        	
 		        </td>
 		    </tr>
@@ -300,7 +312,7 @@
 		        	<div class="people-name text-center">
 		            	<!-- scheduleitem name (link to webpage if provided) -->
 		            	
-		            		Yahav Bechavod, Aaron Roth
+		            		Yahav Bechavod
 		            	
 		                
 		                <!-- scheduleitem affiliation (if provided) -->
@@ -313,6 +325,12 @@
 		        	<div class="col-xs-12">
 			        	<b>Contributed talk -  Individually Fair Learning with One-Sided Feedback</b>
 		        	</div>
+		        	
+		        		<br>
+		        		<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#6">See Abstract</button>
+					  	<div id="6" class="collapse out">
+						    We consider an online learning problem with one-sided feedback, in which the learner is able to observe the true label only for positively predicted instances. On each round, instances arrive and receive classification outcomes according to a randomized policy deployed by the learner, whose goal is to maximize accuracy while deploying individually fair policies. We first extend the framework of Bechavod et al. (2020), which relies on the existence of a human fairness auditor for detecting fairness violations, to instead incorporate feedback from dynamically-selected panels of multiple, possibly inconsistent, auditors. We then construct an efficient reduction from our problem of online learning with one-sided feedback and a panel reporting fairness violations to the contextual combinatorial semi-bandit problem (Cesa-Bianchi & Lugosi, 2009, Gyšrgy et al., 2007). Finally, we show how to leverage the guarantees of two algorithms in the contextual combinatorial semi-bandit setting Exp2 (Bubeck et al., 2012) and the oracle-efficient Context-Semi-Bandit-FTPL (Syrgkanis et al., 2016), to provide multi-criteria no regret guarantees simultaneously for accuracy and fairness. Our results resolve an open question of Bechavod et al. (2020), showing that individually fair and accurate online learning with auditor feedback can be carried out in the one-sided feedback setting.
+					  	</div>
 		        	
 		        </td>
 		    </tr>
@@ -347,7 +365,7 @@
 		        	<div class="people-name text-center">
 		            	<!-- scheduleitem name (link to webpage if provided) -->
 		            	
-		            		Thomas Krendl Gilbert, Sarah Dean, Nathan O Lambert, Tom Zick, Aaron J Snoswell
+		            		Nathan O Lambert
 		            	
 		                
 		                <!-- scheduleitem affiliation (if provided) -->
@@ -360,6 +378,12 @@
 		        	<div class="col-xs-12">
 			        	<b>Contributed talk  - Reward Reports for Reinforcement Learning</b>
 		        	</div>
+		        	
+		        		<br>
+		        		<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#7">See Abstract</button>
+					  	<div id="7" class="collapse out">
+						    The desire to build good systems in the face of complex societal effects requires a dynamic approach towards equity and access. Recent approaches to machine learning (ML) documentation have demonstrated the promise of discursive frameworks for deliberation about these complexities. However, these developments have been grounded in a static ML paradigm, leaving the role of feedback and post-deployment performance unexamined. Meanwhile, recent work in reinforcement learning design has shown that the effects of optimization objectives on the resultant system behavior can be wide-ranging and unpredictable. In this paper we sketch a framework for documenting deployed learning systems, which we call \textit{Reward Reports}.
+					  	</div>
 		        	
 		        </td>
 		    </tr>
@@ -690,6 +714,12 @@
 			        	<b>Contributed talk -  Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits</b>
 		        	</div>
 		        	
+		        		<br>
+		        		<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#14">See Abstract</button>
+					  	<div id="14" class="collapse out">
+						    In this paper we investigate the problem of stochastic multi-armed bandits (MAB) in the (local) differential privacy (DP/LDP) model. Unlike previous results that assume bounded/sub-Gaussian reward distributions, we focus on the setting where each arm's reward distribution only has $(1+v)$-th moment with some $v\in (0, 1]$. In the first part, we study the problem in the central $\epsilon$-DP model. We first provide a near-optimal result by developing a private and robust Upper Confidence Bound (UCB) algorithm. Then, we improve the result via a private and robust version of the Successive Elimination (SE) algorithm. Finally, we establish the lower bound to show that the instance-dependent regret of our improved algorithm is optimal. In the second part, we study the problem in the $\epsilon$-LDP model. We propose an algorithm that can be seen as locally private and robust version of SE algorithm, which provably achieves (near) optimal rates for both instance-dependent and instance-independent regret. Our results reveal differences between the problem of private MAB with bounded/sub-Gaussian rewards and heavy-tailed rewards. To achieve these (near) optimal rates, we develop several new hard instances and private robust estimators as byproducts, which might be used to other related problems.
+					  	</div>
+		        	
 		        </td>
 		    </tr>
 	    
@@ -723,7 +753,7 @@
 		        	<div class="people-name text-center">
 		            	<!-- scheduleitem name (link to webpage if provided) -->
 		            	
-		            		Sarah H Cen, Andrew Ilyas, Aleksander Madry
+		            		Andrew Ilyas
 		            	
 		                
 		                <!-- scheduleitem affiliation (if provided) -->
@@ -736,6 +766,12 @@
 		        	<div class="col-xs-12">
 			        	<b>Contributed talk - A Game-Theoretic Perspective on Trust in Recommendation</b>
 		        	</div>
+		        	
+		        		<br>
+		        		<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#15">See Abstract</button>
+					  	<div id="15" class="collapse out">
+						    Recommendation platforms---such as Amazon, Netflix, and Facebook---use various strategies in order to engage and retain users, from tracking their data to showing addicting content. Ostensibly these measures improve performance, but they can also erode {\em trust}. In this work, we study the role of trust in recommendation, and show that trust is important to a recommendation platform's success because users are the platforms' data sources. Our main contribution is a game-theoretic view of recommender systems and a corresponding formal definition of trust. Namely, if a user trusts their recommendation platform, then their optimal long-term strategy is to act greedily---and thus report their preferences truthfully---at all times. Our definition reflects the intuition that trust arises when the incentives of the user and plaform are sufficiently aligned. To illustrate the implications of this definition, we explore two simple examples of trust. We show that distrust can hurt the platform and building trust can be good for both the user and the platform.
+					  	</div>
 		        	
 		        </td>
 		    </tr>
@@ -768,7 +804,7 @@
         <p>Based on a <a href="http://jekyllrb.com/">Jekyll</a> template from a <a href="https://krrish94.github.io">lazy grad student</a>. Some icons made by <a href="https://smashicons.com/" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>.
 </p>
         
-        Last updated: July 18, 2022.
+        Last updated: July 19, 2022.
         
       </div>
     </div>
