@@ -1,9 +1,10 @@
 ---
 sequence_id: 12
 speaker: Masoud Mansoury 
-title: Invited Talk 5
+title: Exposure-Aware Recommendation using Contextual Bandits
 time: 1600
 #affil: 
 webpage: https://scholar.google.com/citations?user=TSG6jcMAAAAJ&hl=en 
-#abstract: TBD
+abstract: Exposure bias is a well-known issue in recommender systems where items and suppliers are not equally represented in the recommendation results. This is especially problematic when bias is amplified over time as a few items (e.g., popular ones) are repeatedly over-represented in recommendation lists and  users' interactions with those items will amplify bias towards those items over time resulting in a feedback loop. This issue has been extensively studied in the literature on model-based or neighborhood-based recommendation algorithms, but less work has been done on online recommendation models, such as those based on top-K contextual bandits, where recommendation models are dynamically updated with ongoing user feedback. In this work, we study exposure bias in a class of well-known contextual bandit algorithms known as Linear Cascading Bandits. We analyze these algorithms on their ability to handle exposure bias and provide a fair representation for items in the recommendation results. Our analysis reveals that these algorithms tend to amplify exposure disparity among items over time. In particular, we observe that these algorithms do not properly adapt to the feedback provided by the users and frequently recommend certain items even when those items are not selected by users. To mitigate this bias, we propose an Exposure-Aware reward model that updates the model parameters based on two factors- 1) user feedback (i.e., clicked or not), and 2) position of the item in the recommendation list. This way, the proposed model controls the utility assigned to items based on their exposure in the recommendation list. Extensive experiments on two real-world datasets using three contextual bandit algorithms show that the proposed reward model reduces exposure bias amplification in long run while maintaining the recommendation accuracy.
+
 ---
