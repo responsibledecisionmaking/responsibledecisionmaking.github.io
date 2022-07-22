@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9f72a4d-2e38-4a08-85af-e2a4a5aaa500" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_schedule/talk_15_contributed.md" beforeDir="false" afterPath="$PROJECT_DIR$/_schedule/talk_15_contributed.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_schedule/talk_09.md" beforeDir="false" afterPath="$PROJECT_DIR$/_schedule/talk_09.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/getinvolved/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/getinvolved/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/organizers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/organizers/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/papers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/papers/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/schedule/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/schedule/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/speakers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/speakers/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/submit/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/submit/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,11 +26,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_schedule/talk_09.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="342">
+                <caret line="7" column="611" selection-start-line="7" selection-start-column="611" selection-end-line="7" selection-end-column="611" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -64,7 +59,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_schedule/talk_15_contributed.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -145,7 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_papers/05.md" />
         <option value="$PROJECT_DIR$/_papers/06.md" />
         <option value="$PROJECT_DIR$/_papers/07.md" />
         <option value="$PROJECT_DIR$/_papers/08.md" />
@@ -196,6 +190,7 @@
         <option value="$PROJECT_DIR$/_schedule/talk_13.md" />
         <option value="$PROJECT_DIR$/_layouts/home.html" />
         <option value="$PROJECT_DIR$/_schedule/talk_15_contributed.md" />
+        <option value="$PROJECT_DIR$/_schedule/talk_09.md" />
       </list>
     </option>
   </component>
@@ -287,12 +282,12 @@
       <workItem from="1650377857193" duration="858000" />
       <workItem from="1651587803634" duration="111000" />
       <workItem from="1656644864874" duration="778000" />
-      <workItem from="1658159172248" duration="18110000" />
+      <workItem from="1658159172248" duration="18609000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32500000" />
+    <option name="totallyTimeSpent" value="32999000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="248" y="30" width="1680" height="1025" extended-state="0" />
@@ -745,14 +740,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_schedule/talk_09.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_schedule/talk_10.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -825,6 +812,16 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="162">
             <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_schedule/talk_09.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="342">
+            <caret line="7" column="611" selection-start-line="7" selection-start-column="611" selection-end-line="7" selection-end-column="611" />
           </first_editor>
           <second_editor />
         </state>
